@@ -4,7 +4,10 @@ using System.Xml.Linq;
 
 class Program
 {
-    private static readonly string apiKey = "API_KEY";
+    private static readonly string apiKey =
+    Environment.GetEnvironmentVariable("OPENAI_API_KEY")
+    ?? throw new Exception("OPENAI_API_KEY environment variable bulunamadı");
+
     private static readonly string rssFeedUrl = "https://www.sozcu.com.tr/rss/tum-haberler.xml";
 
     static async Task Main()
