@@ -59,7 +59,7 @@ Repodaki örnekler, API’lerden başlayarak farklı AI yeteneklerini gösterir:
 - Görsellerden yazı okuma (Tesseract OCR)  
 - Google Cloud Vision ile gelişmiş görsel analizleri
   #
-# ![20 proje](https://github.com/user-attachments/assets/497ffdd7-547a-4566-b07f-b132c1743c88)
+# ![21](https://github.com/user-attachments/assets/9b2dadb2-787b-4c10-ba36-143329c9c204)
 # ![19 proje](https://github.com/user-attachments/assets/5fe236ea-cdc8-4224-8c19-76c7281e760a)
 # ![18 proje](https://github.com/user-attachments/assets/24db36f0-45fa-45e7-ba77-f0614ad5f729)
 # ![16 proje](https://github.com/user-attachments/assets/3d1db39c-51ed-4f49-8160-ed61c45efbc6)
