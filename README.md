@@ -75,4 +75,5 @@ Repodaki örnekler, API’lerden başlayarak farklı AI yeteneklerini gösterir:
 # ![5 proje](https://github.com/user-attachments/assets/631f62b1-aeb6-40e3-b35e-a5407b28727f)
 # ![4 proje](https://github.com/user-attachments/assets/da79bb89-317c-4cf2-af2a-c9d45d9ed317)
 # ![3 proje](https://github.com/user-attachments/assets/4492c3ee-949d-4507-9a4d-544991e073c6)
+# ![resim](https://github.com/user-attachments/assets/2e11f08d-e646-4f37-91ae-6dd8d154038d)
 
